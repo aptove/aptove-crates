@@ -1,0 +1,11 @@
+[package]
+name = "aptove"
+version = "1.0.0"
+edition = "2024"
+description = "Aptove namespace reservation on crates.io"
+license = "Apache-2.0"
+repository = "https://github.com/aptove/aptove-crates"
+homepage = "https://crates.io/crates/aptove"
+documentation = "https://docs.rs/aptove"
+
+[dependencies]
