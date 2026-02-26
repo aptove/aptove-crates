@@ -1,4 +1,4 @@
-# aptove-crates
+# Aptove Crates
 
 Aptove Rust libraries published on [crates.io](https://crates.io).
 
